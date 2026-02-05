@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import tkinter as tk
 import appdirs, os, json, subprocess, threading, time, array
 
